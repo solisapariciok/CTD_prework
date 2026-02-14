@@ -42,7 +42,7 @@ async function fetchWeather() {
 }
 
 tempBtn.addEventListener("click", async () => {
-  title.textContent = "Current Temperature";
+  title.textContent = "Getting Temperature";
   weatherDiv.textContent = "Loading...";
 
   const weather = await fetchWeather();
