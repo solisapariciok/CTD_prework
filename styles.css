@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-color: #f4f9ff;
+  background-color: white;
   text-align: center;
 }
 
@@ -18,12 +18,12 @@ button {
   border-radius: 5px;
   cursor: pointer;
   background-color: white;
-  color: #0077cc;
+  color: Blue;
   font-weight: bold;
 }
 
 button:hover {
-  background-color: #e6f2ff;
+  background-color: red;
 }
 
 .container {
