@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f9ff;
+  text-align: center;
+}
+
+nav {
+  background-color: #0077cc;
+  padding: 15px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 0 10px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: white;
+  color: #0077cc;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: #e6f2ff;
+}
+
+.container {
+  margin-top: 60px;
+}
+
+h1 {
+  font-size: 28px;
+}
+
+#weather-data {
+  margin-top: 20px;
+  font-size: 22px;
+  font-weight: bold;
+}
